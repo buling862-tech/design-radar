@@ -1,0 +1,9 @@
+{
+  "name": "Design Radar",
+  "short_name": "Design Radar",
+  "description": "设计灵感与趋势雷达",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6"
+}
