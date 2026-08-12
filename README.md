@@ -1,4 +1,4 @@
-# Design Radar 🎨
+# Design Radar 🎨 v2
 
 设计灵感与趋势雷达 - 一个现代化的设计作品展示和发现平台。
 
